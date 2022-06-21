@@ -12,7 +12,7 @@ distance = float(distance)
 payout = input("Enter payout:   ")
 payout = float(payout)
 
-gas_price = input("enter the zip code:    ")
+gas_price = input("enter the gas price per gallon:    ")
 
 """""
 baseURL = "http://www.gasbuddy.com/"
